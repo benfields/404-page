@@ -1,7 +1,7 @@
 404 Page
 ========
 
-A simple page to tell users that they are in the wrong place. (kindly, that is)
+A simple webpage to tell users that they are in the wrong place. (kindly, that is)
 
 ========
 
