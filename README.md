@@ -5,14 +5,6 @@ A simple webpage to tell users that they are in the wrong place. (kindly, that i
 
 ========
 
-```
---> Make sure to check out the live demo!
-```
-
-### see the demo [here](http://www.terld.com/makeover/404.html)
-
-========
-
 ## Source Licenses
 
 ### My License
