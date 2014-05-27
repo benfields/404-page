@@ -5,10 +5,6 @@ A simple webpage to tell users that they are in the wrong place.
 
 ========
 
-## Source License
-
-##### Summarized, write about it, integrate it, make it your own, but don’t copy and paste my work and sell it or claim that it’s yours.
-
 ### MIT License
 
 Copyright (c) 2013-2014 Ben Fields
